@@ -1,2 +1,2 @@
 # my_py
-my python prosgram
+my python program
